@@ -9,7 +9,7 @@
 * Teaching tools
 * Kind of drawing Whiteboard management
 * Graphs, etc for representation
-* Flowcharts for easifying studies - syllabus
+* Flowcharts for easifying studies - syllabus, etc
 * Quizes etc
 * Memory based system for personalization
 <br>
