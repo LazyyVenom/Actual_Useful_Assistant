@@ -1,6 +1,5 @@
 # Actual_Useful_Assistant
-##
-Things to implement:
+## Things to implement:
 * GUI Version
 * CLI Version
 * Task Mangements
