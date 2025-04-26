@@ -4,8 +4,7 @@
 * CLI Version
 * Task Mangements
 * Daily Schedules / Days events planning
-* Rephrasing stuff
-* PDF Summarizer
+* Quick Rephrasing stuff
 * Teaching tools
 * Kind of drawing Whiteboard management
 * Graphs, etc for representation
@@ -13,6 +12,9 @@
 * Quizes etc
 * Memory based system for personalization
 * Quotes + Motivation
+* Mobile App + Dekstop app
+* Personalization
+* AI modes
 <br>
 thinking of using Gemini APIs as they are Goated right now for free usage
 This is gonna be fully free (Just plugin your own API)
