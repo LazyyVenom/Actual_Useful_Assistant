@@ -15,6 +15,9 @@
 * Mobile App + Dekstop app
 * Personalization
 * AI modes
+* Chatting based upon tasks and goals
+* Goals
+* Suggest tasks for today with updation suggestions
 <br>
 thinking of using Gemini APIs as they are Goated right now for free usage
 This is gonna be fully free (Just plugin your own API)
