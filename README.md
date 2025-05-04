@@ -5,19 +5,19 @@
 * Task Mangements
 * Daily Schedules / Days events planning
 * Quick Rephrasing stuff
-* Teaching tools
-* Kind of drawing Whiteboard management
-* Graphs, etc for representation
 * Flowcharts for easifying studies - syllabus, etc
 * Quizes etc
 * Memory based system for personalization
-* Quotes + Motivation
+* Quotes + Motivation (self choosen or Random if required)
+* Saved Motivational videos links if required or Lets add this in the application only (Video Player good learning)
 * Mobile App + Dekstop app
 * Personalization
 * AI modes
 * Chatting based upon tasks and goals
 * Goals
 * Suggest tasks for today with updation suggestions
+* Add a day score (Very hard - Very Easy) And analysis for weekly/monthly time period to avoid burn out
+* journaling + day revision in the end.
 <br>
 thinking of using Gemini APIs as they are Goated right now for free usage
 This is gonna be fully free (Just plugin your own API)
