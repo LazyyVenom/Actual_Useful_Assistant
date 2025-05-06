@@ -17,6 +17,7 @@
 * Suggest tasks for today with updation suggestions
 * Add a day score (Very hard - Very Easy) And analysis for weekly/monthly time period to avoid burn out
 * journaling + day revision in the end.
+* Work Life balance score - To avoid burn out and continue with peace
 <br>
 thinking of using Gemini APIs as they are Goated right now for free usage
 This is gonna be fully free (Just plugin your own API)
