@@ -5,7 +5,7 @@
 * Task Mangements
 * Daily Schedules / Days events planning
 * Quick Rephrasing stuff
-* Flowcharts for easifying studies - syllabus, etc
+* Flowcharts for easifying skills gaining and other stuff
 * Quizes etc
 * Memory based system for personalization
 * Quotes + Motivation (self choosen or Random if required)
