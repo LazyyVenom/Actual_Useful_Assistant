@@ -6,7 +6,6 @@
 * Daily Schedules / Days events planning
 * Quick Rephrasing stuff
 * Flowcharts for easifying skills gaining and other stuff
-* Quizes etc
 * Memory based system for personalization
 * Quotes + Motivation (self choosen or Random if required)
 * Saved Motivational videos links if required or Lets add this in the application only (Video Player good learning)
