@@ -18,6 +18,9 @@
 * Add a day score (Very hard - Very Easy) And analysis for weekly/monthly time period to avoid burn out
 * journaling + day revision in the end.
 * Work Life balance score - To avoid burn out and continue with peace
+* Auto Research for features
+* Oppurtunity seeker automatic
+* There Is a reason I am built this goood
 <br>
 thinking of using Gemini APIs as they are Goated right now for free usage
 This is gonna be fully free (Just plugin your own API)
