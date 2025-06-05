@@ -54,8 +54,6 @@ It merges productivity, mental health considerations, and continuous learning in
 
 ## Core Features
 
-> Each feature is grouped by category and includes a brief rationale in brackets.
-
 ### 1. Task & Time Management
 - **Task Management**  
   - Create, categorize, prioritize, and track tasks (to centralize to-dos and improve focus).  
